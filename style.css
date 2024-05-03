@@ -1,0 +1,27 @@
+body{
+    background-color: #D5E1EF;
+    min-height: 100vh;
+    font-family: cursive;
+    text-align: center;
+    color:  #1f3251;
+}
+.container{
+    max-width: 336px;
+    height: 520px;
+    width: 100%;
+    background-color: #FFFFFF;
+    padding: 1rem;
+    padding-bottom: 2rem;
+    border-radius: 10px;
+    position: fixed;
+    margin: auto;
+    inset: 0;
+    box-shadow: 10px 10px 50px -5px rgba(0, 0, 0, 0.3);
+}
+#image{
+    width: 100%;
+    border-radius: 20px;
+}
+p{
+    color: #979ba5;
+}
